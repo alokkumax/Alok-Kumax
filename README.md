@@ -1,2 +1,2 @@
 # Alok-Kumax
-Want to become a full time app developer,
+Want to be a happy Person,
