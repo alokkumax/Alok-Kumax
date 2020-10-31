@@ -1,2 +1,3 @@
 # Alok-Kumax
-Want to be a happy Person,
+this is me alokKumar, currently working on flutter app development, and learning kotlin.
+
